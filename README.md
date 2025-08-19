@@ -209,11 +209,9 @@ Realtime_Chat_Application/
 2. Set build command: `npm run build`
 3. Set output directory: `dist`
 
-## 👨‍💻 Author
+## 👩🏻‍💻 Author
 
-**Ankita Sikdar**
-- GitHub: [@AnkitaSikdar005](https://github.com/AnkitaSikdar005)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ankita-sikdar-70210a253/)
+-  [Visit my LinkedIn Profile](https://www.linkedin.com/in/ankita-sikdar-70210a253/)
 
 ## 🙏 Acknowledgments
 
