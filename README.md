@@ -1,4 +1,4 @@
-# 💬 Realtime Chat Application
+# 💬Vibely!- Realtime Chat Application✨🚀
 
 A **modern, feature-rich realtime chat platform** built with the **MERN stack** (MongoDB, Express, React, Node.js), **Socket.IO**, **JWT authentication**, **TailwindCSS**, and **DaisyUI**.  
 Enjoy **seamless communication** with live messaging, image sharing, user presence, and beautiful customizable themes.  
