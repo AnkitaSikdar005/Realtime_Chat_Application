@@ -16,7 +16,9 @@ dotenv.config();
 const PORT = process.env.PORT;
 const __dirname = path.resolve();
 
-app.use(express.json()); //middleware
+// Increase payload limits for image uploads
+app.use(express.json({ limit: '10mb' })); // Allow up to 10MB JSON payloads
+app.use(express.urlencoded({ limit: '10mb', extended: true })); // Allow up to 10MB URL-encoded data
 app.use(cookieParser());
 app.use(cors({
   origin: process.env.NODE_ENV === "production" ? process.env.CLIENT_URL : "http://localhost:5173",
