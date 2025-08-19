@@ -1,59 +1,72 @@
-# 💬 Real-Time Chat Application
+# 💬 Realtime Chat Application
 
-A modern, feature-rich real-time chat application built with React.js, Node.js, Socket.io, and MongoDB. Experience seamless communication with beautiful themes, image sharing, and live user presence.
+A **modern, feature-rich realtime chat platform** built with the **MERN stack** (MongoDB, Express, React, Node.js), **Socket.IO**, **JWT authentication**, **TailwindCSS**, and **DaisyUI**.  
+Enjoy **seamless communication** with live messaging, image sharing, user presence, and beautiful customizable themes.  
 
-![Chat Application](https://img.shields.io/badge/React-18.3.1-blue?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/React-18.3.1-blue?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-22.16.0-green?style=for-the-badge&logo=node.js)
 ![Socket.io](https://img.shields.io/badge/Socket.io-4.8.1-black?style=for-the-badge&logo=socket.io)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green?style=for-the-badge&logo=mongodb)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-blue?style=for-the-badge&logo=tailwindcss)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-4.12-pink?style=for-the-badge&logo=daisyui)
+
+## 🚀 Live Demo
+
+ ### 🧭 Deployed on Render – [Visit the Live Site](https://realtime-chat-application-k01a.onrender.com)
+
+
 
 ## ✨ Features
 
 ### 🎨 **Beautiful UI/UX**
-- **30+ DaisyUI Themes** - Switch between stunning themes instantly
-- **Responsive Design** - Perfect on desktop, tablet, and mobile
-- **Modern Chat Interface** - Clean, intuitive message bubbles and layout
-- **Dark/Light Mode** - Easy on the eyes, day or night
+- 🎭 **30+ DaisyUI Themes** – Switch between stunning themes instantly  
+- 📱 **Responsive Design** – Perfect on desktop, tablet, and mobile  
+- 💬 **Modern Chat Interface** – Clean, intuitive message bubbles and layout  
+- 🌗 **Dark/Light Mode** – Easy on the eyes, day or night  
 
-### 💬 **Real-Time Communication**
-- **Instant Messaging** - Send and receive messages in real-time
-- **Live User Presence** - See who's online with green indicators
-- **Auto-Scroll** - Never miss the latest messages
-- **Message Timestamps** - Know exactly when messages were sent
+### ⚡ **Real-Time Communication**
+- 🚀 **Instant Messaging** – Send & receive messages instantly  
+- 🟢 **Live User Presence** – See who’s online with green indicators  
+- 📜 **Auto-Scroll** – Never miss the latest messages  
+- ⏰ **Message Timestamps** – Know exactly when messages were sent  
 
 ### 🔐 **Secure Authentication**
-- **JWT Authentication** - Secure token-based login system
-- **Password Hashing** - bcrypt encryption for user passwords
-- **Protected Routes** - Secure access to chat features
-- **Session Management** - Automatic login/logout handling
+- 🔑 **JWT Authentication** – Token-based secure login system  
+- 🛡️ **Password Hashing** – bcrypt encryption for user data protection  
+- 🔒 **Protected Routes** – Access restricted chat features safely  
+- 🔄 **Session Management** – Automatic login/logout handling  
 
 ### 🖼️ **Rich Media**
-- **Image Sharing** - Upload and share images via Cloudinary
-- **Profile Pictures** - Personalize your chat experience
-- **Optimized Images** - Fast loading with cloud optimization
+- 📷 **Image Sharing** – Upload & share images via **Cloudinary**  
+- 🧑‍🎨 **Profile Pictures** – Personalize your chat experience  
+- ⚡ **Optimized Images** – Fast loading with cloud delivery  
 
 ### 🌐 **Modern Tech Stack**
-- **React 18** with Hooks and Context API
-- **Socket.io** for real-time communication
-- **Zustand** for state management
-- **Tailwind CSS + DaisyUI** for styling
-- **Node.js + Express** backend API
-- **MongoDB Atlas** cloud database
+- ⚛️ **React 18** with Hooks & Context API  
+- 🔌 **Socket.io** for real-time communication  
+- 🗂️ **Zustand** for lightweight state management  
+- 🎨 **Tailwind CSS + DaisyUI** for modern UI design  
+- 🖥️ **Node.js + Express** backend API  
+- 🗄️ **MongoDB Atlas** cloud database  
 
-## 🚀 Live Demo
 
-🌟 **[Try the Live App](https://your-deployed-app-url.com)** 
 
-## 📱 Screenshots
+## 📸 Screenshots
 
-### Theme Switching
-![Theme Demo](https://via.placeholder.com/800x400/4f46e5/ffffff?text=Beautiful+Theme+Switching)
+### 🎨 Theme Switching  
+🖼️ Switch between **30+ stunning DaisyUI themes** instantly!  
+<img width="1800" height="903" alt="image" src="https://github.com/user-attachments/assets/c0f7bdc2-d0a5-4c20-9116-3984e8e0e015" />
 
-### Chat Interface
-![Chat Interface](https://via.placeholder.com/800x400/059669/ffffff?text=Real-Time+Chat+Interface)
+---
 
-### Settings Page
-![Settings](https://via.placeholder.com/800x400/dc2626/ffffff?text=Customizable+Settings)
+### 💬 Chat Interface  
+💡 A clean, modern **real-time chat layout** with message bubbles, timestamps, and auto-scroll.  
+<img width="1910" height="909" alt="image" src="https://github.com/user-attachments/assets/fa491c05-e7d9-4bd0-bd60-6eb9ee7174af" />
+ 
+
+---
+
+
 
 ## 🛠️ Tech Stack
 
@@ -153,61 +166,54 @@ Realtime_Chat_Application/
 
 ## 🎯 Key Features Breakdown
 
-### Real-Time Messaging
-- **Socket.io Integration**: Instant message delivery
-- **Online Users**: Live presence indicators
-- **Message History**: Persistent chat storage
-- **Auto-Scroll**: Smooth message navigation
+### ⚡ Real-Time Messaging
+- 🔌 **Socket.io Integration** – Instant message delivery  
+- 🟢 **Online Users** – Live presence indicators  
+- 💾 **Message History** – Persistent chat storage  
+- 📜 **Auto-Scroll** – Smooth message navigation  
 
-### Theme System
-- **30+ Themes**: From minimalist to vibrant
-- **Live Preview**: See themes before applying
-- **Persistent Settings**: Your preferences saved
-- **Mobile Responsive**: Beautiful on all devices
+---
 
-### Authentication Flow
-- **Secure Registration**: Password hashing with bcrypt
-- **JWT Tokens**: Stateless authentication
-- **Protected Routes**: Secure chat access
-- **Auto-Login**: Remember user sessions
+### 🎨 Theme System
+- 🎭 **30+ Themes** – From minimalist to vibrant  
+- 👀 **Live Preview** – See themes before applying  
+- 💾 **Persistent Settings** – Your preferences saved  
+- 📱 **Mobile Responsive** – Beautiful on all devices  
 
-### Image Upload
-- **Cloudinary Integration**: Cloud-based image storage
-- **Instant Preview**: See images immediately
-- **Optimized Delivery**: Fast loading images
-- **Mobile Support**: Upload from any device
+---
+
+### 🔐 Authentication Flow
+- 📝 **Secure Registration** – Password hashing with bcrypt  
+- 🔑 **JWT Tokens** – Stateless authentication  
+- 🔒 **Protected Routes** – Secure chat access  
+- 🔄 **Auto-Login** – Remember user sessions  
+
+---
+
+### 🖼️ Image Upload
+- ☁️ **Cloudinary Integration** – Cloud-based image storage  
+- ⚡ **Instant Preview** – See images immediately  
+- 🚀 **Optimized Delivery** – Fast-loading images  
+- 📲 **Mobile Support** – Upload from any device  
+
 
 ## 🚀 Deployment
 
-### Backend (Render/Railway)
+### Backend (Render)
 1. Connect your GitHub repository
 2. Set environment variables
 3. Deploy with `npm run start`
 
-### Frontend (Vercel/Netlify)
+### Frontend (Render)
 1. Connect your repository
 2. Set build command: `npm run build`
 3. Set output directory: `dist`
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
 **Ankita Sikdar**
 - GitHub: [@AnkitaSikdar005](https://github.com/AnkitaSikdar005)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ankita-sikdar-70210a253/)
 
 ## 🙏 Acknowledgments
 
@@ -216,12 +222,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Cloudinary](https://cloudinary.com/) for image management
 - [MongoDB Atlas](https://www.mongodb.com/atlas) for cloud database
 
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/AnkitaSikdar005/Realtime_Chat_Application?style=social)
-![GitHub forks](https://img.shields.io/github/forks/AnkitaSikdar005/Realtime_Chat_Application?style=social)
-![GitHub issues](https://img.shields.io/github/issues/AnkitaSikdar005/Realtime_Chat_Application)
-![GitHub license](https://img.shields.io/github/license/AnkitaSikdar005/Realtime_Chat_Application)
 
 ---
 
