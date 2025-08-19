@@ -225,7 +225,6 @@ Realtime_Chat_Application/
 
 ---
 
-<div align="center">
-  <h3>⭐ Star this repository if you found it helpful!</h3>
+<div align="left">
   <p>Made with ❤️ by Ankita Sikdar</p>
 </div>
