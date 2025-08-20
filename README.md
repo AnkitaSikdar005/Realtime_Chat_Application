@@ -14,7 +14,8 @@ Enjoy **seamless communication** with live messaging, image sharing, user presen
 ## 🚀 Live Demo
 🎥 Watch the demo in action! 👇
 
-[![Watch the video](https://img.shields.io/badge/▶-Click%20to%20Play-red)](https://github.com/AnkitaSikdar005/Realtime_Chat_Application/assets/Chat_application_recording.mp4)
+[![Watch the video](https://img.shields.io/badge/▶-Click%20to%20Play-red)](https://github.com/AnkitaSikdar005/Realtime_Chat_Application/raw/main/assets/Chat_application_recording.mp4)
+
  ### 🧭 Deployed on Render – [Visit the Live Site](https://realtime-chat-application-k01a.onrender.com)
 
 
@@ -229,6 +230,7 @@ Realtime_Chat_Application/
 <div align="left">
   <p>Made with ❤️ by Ankita Sikdar</p>
 </div>
+
 
 
 
