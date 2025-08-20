@@ -12,7 +12,7 @@ Enjoy **seamless communication** with live messaging, image sharing, user presen
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-4.12-pink?style=for-the-badge&logo=daisyui)
 
 ## 🚀 Live Demo
-
+https://github.com/user-attachments/assets/35dcc429-239f-4f3b-ace6-7f2fc7cbbbdd
 
  ### 🧭 Deployed on Render – [Visit the Live Site](https://realtime-chat-application-k01a.onrender.com)
 
@@ -246,6 +246,7 @@ Realtime_Chat_Application/
 <div align="left">
   <p>Made with ❤️ by Ankita Sikdar</p>
 </div>
+
 
 
 
