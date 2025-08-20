@@ -144,25 +144,43 @@ Visit `http://localhost:5173` to see the app! 🎉
 
 ```
 Realtime_Chat_Application/
+├── api/                     # Vercel serverless functions
+│   ├── auth/               # Authentication endpoints
+│   ├── messages/           # Message handling endpoints
+│   └── index.js           # API entry point
+├── assets/                 # Project assets (videos, images)
 ├── backend/
 │   ├── src/
-│   │   ├── controllers/     # API route handlers
-│   │   ├── middleware/      # Authentication & validation
-│   │   ├── models/          # MongoDB schemas
-│   │   ├── routes/          # Express routes
-│   │   ├── lib/             # Utility functions
-│   │   └── index.js         # Server entry point
-│   ├── .env                 # Environment variables
+│   │   ├── controllers/    # API route handlers
+│   │   ├── middleware/     # Authentication & validation
+│   │   ├── models/         # MongoDB schemas
+│   │   ├── routes/         # Express routes
+│   │   ├── lib/            # Utility functions
+│   │   ├── seeds/          # Database seed files
+│   │   └── index.js        # Server entry point
+│   ├── .env               # Environment variables
 │   └── package.json
 ├── frontend/
 │   ├── src/
-│   │   ├── components/      # React components
-│   │   ├── pages/           # Main app pages
-│   │   ├── store/           # Zustand state management
-│   │   ├── lib/             # Utility functions
-│   │   └── main.jsx         # App entry point
-│   ├── public/              # Static assets
+│   │   ├── components/     # React components
+│   │   ├── pages/          # Main app pages
+│   │   ├── store/          # Zustand state management
+│   │   ├── lib/            # Utility functions
+│   │   ├── constants/      # App constants
+│   │   ├── assets/         # Frontend assets
+│   │   ├── App.jsx         # Main app component
+│   │   ├── main.jsx        # App entry point
+│   │   └── index.css       # Global styles
+│   ├── public/             # Static assets
+│   ├── dist/               # Build output
+│   ├── vercel.json         # Vercel deployment config
+│   ├── vite.config.js      # Vite configuration
+│   ├── tailwind.config.js  # Tailwind CSS config
+│   ├── postcss.config.js   # PostCSS config
+│   ├── eslint.config.js    # ESLint configuration
 │   └── package.json
+├── vercel.json             # Root Vercel config
+├── package.json            # Root package.json
 └── README.md
 ```
 
@@ -228,6 +246,7 @@ Realtime_Chat_Application/
 <div align="left">
   <p>Made with ❤️ by Ankita Sikdar</p>
 </div>
+
 
 
 
