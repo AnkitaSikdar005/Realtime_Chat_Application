@@ -24,6 +24,12 @@ const App = () => {
     checkAuth();
   }, [checkAuth]);
 
+  // Apply theme to html element for proper DaisyUI theme application
+  useEffect(() => {
+    document.documentElement.setAttribute('data-theme', theme);
+    document.body.setAttribute('data-theme', theme);
+  }, [theme]);
+
   console.log({ authUser });
 
   if (isCheckingAuth && !authUser)
